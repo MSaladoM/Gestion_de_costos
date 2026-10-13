@@ -18,6 +18,7 @@ PruebaSeniorMarianaSalado/
 │   └── Prediccion.ipynb      # Feature engineering, entrenamiento y evaluación
 └── app/
     └── agente.py                        # Aplicación Streamlit + CrewAI (Orquestación)
+```
 
 ## Notebooks
 
