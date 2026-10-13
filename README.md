@@ -5,7 +5,7 @@ Este proyecto contiene el análisis exploratorio y el modelado predictivo de pre
 ## 📂 Estructura del Proyecto
 
 ```text
-PruebaSeniorMarianaSalado/
+Gestión_de_costos/
 ├── README.md
 ├── requirements.txt
 ├── Datos/
@@ -48,8 +48,8 @@ El LLM se ejecuta de forma local mediante Ollama (`llama3.1`) con `temperature=0
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/PruebaSeniorMarianaSalado.git
-   cd PruebaSeniorMarianaSalado
+   git clone https://github.com/tu-usuario/Gestion_de_costos.git
+   cd Gestion_de_costos
 
 2. Crear y activar un entorno virtual (ejemplo con Conda):
    ```bash
