@@ -55,8 +55,8 @@ El LLM se ejecuta de forma local mediante Ollama (`llama3.1`) con `temperature=0
 
 2. Crear y activar un entorno virtual (ejemplo con Conda):
    ```bash
-   conda create -n series-mlops python=3.11
-   conda activate series-mlops
+   python -m venv .venv
+   .\.venv\Scripts\Activate.ps1
 
 3. Instalar dependencias:
    ```bash
