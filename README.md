@@ -2,7 +2,7 @@
 
 Este proyecto contiene el análisis exploratorio y el modelado predictivo de precios de equipos industriales en función de tres materias primas (`Price_X`, `Price_Y`, `Price_Z`). El trabajo se estructura en dos fases: análisis exploratorio de datos (EDA) y modelado predictivo con comparación de algoritmos, culminando en una aplicación interactiva con arquitectura multi-agente.
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 Gestión_de_costos/
@@ -48,8 +48,10 @@ El LLM se ejecuta de forma local mediante Ollama (`llama3.1`) con `temperature=0
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/Gestion_de_costos.git
+   git clone https://github.com/MSaladoM/Gestion_de_costos.git
    cd Gestion_de_costos
+
+   
 
 2. Crear y activar un entorno virtual (ejemplo con Conda):
    ```bash
